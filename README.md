@@ -3,7 +3,7 @@ A portfolio showcasing my accounting projects and financial analyses
 # 💼 Accounting Portfolio
 
 Welcome to my Accounting Portfolio!  
-This repository showcases my projects, reports, and analyses developed during my university studies in Accounting.
+This repository showcases my projects, reports, and analyses developed during my university studies in Accounting at Dong-A Universities
 
 ---
 
